@@ -5,4 +5,3 @@
 
 puts "Hello World!"
 
-learn submit_tag
